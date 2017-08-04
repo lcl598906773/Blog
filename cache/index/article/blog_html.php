@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<!--[if IE 7]>					<html class="ie7 no-js" lang="en">     <![endif]-->
+<!--[if lte IE 8]>              <html class="ie8 no-js" lang="en">     <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="not-ie no-js" lang="en">  <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />	
+	
+	<title>My Blog | Blog</title>
+	
+	<meta name="description" content="" />
+	<meta name="author" content="" />	
+	
+	<link rel="icon" type="image/png" href="public/index/images/favicon.png" />
+	
+	<link rel="stylesheet" type="text/css" href="public/index/css/style.css" />
+	<link rel="stylesheet" type="text/css" href="public/index/fancybox/jquery.fancybox.css" />
+
+	<!-- HTML5 Shiv -->
+	<script type="text/javascript" src="public/index/js/modernizr.custom.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
+<body class="style-1">
+
+
+<div class="wrap">
+	
+	<!-- - - - - - - - - - - - - - Header - - - - - - - - - - - - - - - - -->	
+	
+	<?php include 'cache/index/index/header_html.php';?>
+	<!-- - - - - - - - - - - - - - end Header - - - - - - - - - - - - - - - - -->	
+
+	
+	<!-- - - - - - - - - - - - - - - Container - - - - - - - - - - - - - - - - -->	
+	
+	<section class="container sbr clearfix">
+		
+		<!-- - - - - - - - - - Page Header - - - - - - - - - - -->	
+		
+		<div class="page-header">
+			
+			<h1 class="page-title">Blog</h1>
+			
+		</div><!--/ .page-header-->
+		
+		<!-- - - - - - - - - end Page Header - - - - - - - - - -->	
+		
+
+		<!-- - - - - - - - - - - - - - - Content - - - - - - - - - - - - - - - - -->		
+		
+		<section id="content" class="first">
+		<?php if(!empty($data)):?>
+			<?php foreach($data as $value): ?>
+			<article class="post clearfix">
+				
+				<a href="index.php?c=index&a=blog_details&id=<?=$value['id']; ?>">
+					<h3 class="title">
+						<?=$value['title']; ?>
+					</h3><!--/ .title -->
+				</a>
+				
+				<section class="post-meta clearfix">
+					
+					<div class="post-date"><a href="#"><?php echo date('Y/m/d',$value['addtime']);?></a></div><!--/ .post-date-->
+					<div class="post-tags">
+						<a href="#">News</a>
+						<a href="#">Events</a>
+						<a href="#">People</a>
+					</div><!--/ .post-tags-->
+					<div class="post-comments"><a href="#"><?=$value['replycount']; ?>Comments Comments</a></div><!--/ .post-comments-->
+					
+				</section><!--/ .post-meta-->
+				
+				<a class="single-image" href="">
+					<img class="custom-frame" alt="" src="<?=$value['icon']; ?>" />
+				</a>
+				
+				<p>
+				</p>
+				
+				<a href="index.php?c=index&a=blog_details&id=<?=$value['id']; ?>" class="button gray">Read More &rarr;</a>
+				
+			</article><!--/ .post-->
+
+			<?php endforeach;?>
+			<?php endif;?>
+		</section><!--/ #content-->
+		
+		<!-- - - - - - - - - - - - - - end Content - - - - - - - - - - - - - - - - -->	
+		
+		
+		<!-- - - - - - - - - - - - - - - Sidebar - - - - - - - - - - - - - - - - -->	
+		
+		<aside id="sidebar">
+			
+			
+		
+			
+			<div class="widget-container widget_testimonials">
+				
+				<h3 class="widget-title"></h3>
+				
+				<div class="testimonials">
+					
+					<div class="substrate-rotate-left"></div>
+					<div class="substrate-rotate-right"></div>
+					<div class="quoteBox">
+						
+						<ul class="quotes">
+							<li>
+								<div class="quote-text">
+									　Congratulations on your graduation! Wishing you a future filled with success。and joy of seeing your dreams come true. It's such a pleasure to have a special。reason to congratulate you。
+								</div><!--/ .quote-text-->
+								<div class="quote-author">
+
+									<span></span>
+								</div><!--/ .quote-author-->							
+							</li>
+							<li>
+								<div class="quote-text">
+									Best wishes and sincere congratulations on your graduation.may this special day be the commencement of the continued series of upward steps to further success.
+								</div><!--/ .quote-text-->
+								<div class="quote-author">
+									<span></span>
+								</div><!--/ .quote-author-->							
+							</li>							
+						</ul><!--/ .quotes-->
+						
+					</div><!--/ .quoteBox-->
+					
+				</div><!--/ .testimonials-->
+				
+			</div><!--/ .widget-container-->
+			
+		</aside><!--/ #sidebar-->
+		
+		<!-- - - - - - - - - - - - - end Sidebar - - - - - - - - - - - - - - - - -->
+		
+		<ul class="pagination">
+			
+			<li><a class="prevpostslink" href="<?=$allPage['first']; ?>"><span>&larr;</span> First</a></li>
+			<li><a class="prevpostslink" href="<?=$allPage['pre']; ?>"><span>&larr;</span> Previous</a></li>
+			<li><a class="prevpostslink" href="<?=$allPage['next']; ?>"><span>&rarr;</span> Next</a></li>
+			<li><a class="nextpostslink" href="<?=$allPage['last']; ?>">Last <span>&rarr;</span></a></li>
+			
+		</ul><!--/ .pagination-->
+		
+		
+	</section><!--/.container -->
+		
+	<!-- - - - - - - - - - - - - end Container - - - - - - - - - - - - - - - - -->	
+	
+	
+	<!-- - - - - - - - - - - - - - - Footer - - - - - - - - - - - - - - - - -->	
+	
+	<?php include 'cache/index/index/footer_html.php';?>
+<script type="text/javascript" src=""></script>	
+<script>window.jQuery || document.write('<script src="js/jquery-1.7.1.min.js"><\/script>')</script>
+<!--[if lt IE 9]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
+	<script src="js/ie.js"></script>
+<![endif]-->
+<script src="js/custom.js"></script>
+<div style="display:none"><script src='http://v7.cnzz.com/stat.php?id=155540&web_id=155540' language='JavaScript' charset='gb2312'></script></div>
+</body>
+</html>
+

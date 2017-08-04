@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html autopagermatchedrules="1">
+<!--STATUS OK-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="viewport" content="width=device-width,minimum-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<title>鏉庢垚榫櫟男彰测试结果</title>
+<meta name="keywords" content="鏉庢垚榫,性格,吉凶,命运,运程,测试结果">
+<meta name="description" content="鏉庢垚榫櫟男愿瘛⒓凶、命运及运程信息，本测试结果仅供娱乐参考，不代表本站观点。">
+<link href="css/style.css" type="text/css" rel="stylesheet">
+</head>
+<body screen_capture_injected="true"><script language="javascript">
+function validateForm()
+{
+	if (form1.word.value=="请输入姓名" || form1.word.value=="")
+	{
+		alert("请输入姓名！");
+		form1.word.value="";
+		form1.word.focus();
+	   	return false;
+	}
+	var reg=/[^\u4E00-\u9FA5]/g;
+	if(reg.test(form1.word.value))
+	{ 
+		alert("请您输入汉字！");
+	     	form1.word.focus();
+	     	return false;
+	}
+}
+</script>
+<!--head start-->
+<div id="logo" style="height:25px;"><span class="title2"><a href="http://m.1518.com/"><img src="./images/logo_index2.png" style="margin-bottom:3px;" border=0 width="25" height="25"> 1518姓名测试</a></span> <a href="javascript:window.history.back();"><span class="more">返回</span></a></div><form name="form1" action="xingming_view.php" onSubmit="javascript:return validateForm();" method="get">
+<div id="se_wrap">
+<div id="se_inner">
+<input type="text" name="word" maxLength=5 class="se-input" onBlur="if (value==''){value='请输入姓名'}" onFocus="if (value=='请输入姓名') {value=''}" value="鏉庢垚榫">
+</div>
+<input id="se_bn" type="submit" name="submit1" value="确定">
+</div>
+<div style="font-size:14px;line-height:50px;">
+<input name="FrontType" type="radio" checked value="1" /><font onclick="javascript:document.form1.FrontType[0].checked=true;">&nbsp;单姓</font>&nbsp;&nbsp;&nbsp;&nbsp;<input name="FrontType" type="radio" value="2" /><font onclick="javascript:document.form1.FrontType[1].checked=true;">&nbsp;复姓</font>
+</div>
+</form>
+<!--head end-->
+<div id="detail" style="margin-top:0px;">
+<h3><span style="float:right;"><a href="qiming/"><img src="images/bbqm_shouji_small.jpg" border="0"></a></span></h3>
+<dl>
+  <dt>得分：<u><strong>44分</strong></u></dt>
+  <dd>
+    <div>（评分由数理文化得出，仅供娱乐参考）</div>
+  </dd>
+  <dd>天格：<font color=red>凶</font>
+    人格：<font color=red>凶</font>
+    地格：<font color=red></font><br>
+    外格：<font color=red>大吉</font>
+    总格：<font color=red>凶</font><br>
+    五行：  </dd>
+</dl>
+<dl>
+  <dt>概述：</dt>
+  <dd>
+有成功发展的运气,但基础不稳,易生意外灾祸,且有没落背运之虑。　　  </dd>
+</dl>
+<dl>
+  <dt>总论：</dt>
+  <dd>对家庭有责任心,但辛勤劳苦收获不多,理想高远而不能得到别人的支持,容易受到意外的灾害损失,宜退守为安,天运五行属土时,少年之灾,中晚年有成功机会。</dd>
+</dl>
+<dl>
+  <dt>性格：</dt>
+  <dd>
+    自尊心过强,不愿向别人低头,自视过高,做人守原则不贪不取,性急而口齿伶俐,常在不知不觉中刺伤别人而引起反感。</dd>
+</dl>
+<dl>
+  <dt>意志：</dt>
+  <dd>
+    意志坚定,也有相当忍耐性,容易一意孤行,养成专断的个性,应力图改进修身养性。</dd>
+</dl>
+<dl>
+  <dt>事业：</dt>
+  <dd>
+    事业运不稳定,多劳少得,若有一时的成功,宜守不宜攻以持盈保泰。</dd>
+</dl>
+<dl>
+  <dt>家庭：</dt>
+  <dd>
+    六亲缘薄靠自力奋斗,为家庭多操劳,家庭欠温暖。</dd>
+</dl>
+<dl>
+  <dt>婚姻：</dt>
+  <dd>
+    男娶温良寡和之妻,婚后夫妻多争执;女嫁谦和才干之夫,婚后家庭少温暖。</dd>
+</dl>
+<dl>
+  <dt>子女：</dt>
+  <dd>
+    男孩多于女孩,子女个性较为孤独,长大后尚能为家庭而奋斗。</dd>
+</dl>
+<dl>
+  <dt>社交：</dt>
+  <dd>
+    好胜心较强,不愿受到别人的牵制,喜欢一意孤行,容易树立敌人,社交不圆满,</dd>
+</dl>
+<dl>
+  <dt>精神：</dt>
+  <dd>
+    表面平静,内则不安,内心苦闷,事业不顺,心情欠开朗。</dd>
+</dl>
+<dl>
+  <dt>财运：</dt>
+  <dd>
+    财运不佳劳多利少,应避免意外损失或牵累,凡事三思而行。</dd>
+</dl>
+<dl>
+  <dt>健康：</dt>
+  <dd>
+    易患风湿症或筋骨酸痛、外伤等。</dd>
+</dl>
+<dl>
+  <dt>老运：</dt>
+  <dd>
+    一生辛劳,晚景不安事业多挫折,家庭有孤独之兆。</dd>
+</dl>
+<!--
+<dl>
+  <dt><a href="qiming/"><img src="images/bbqm_shouji_big.jpg" border="0"></a></dt>
+</dl>
+<dl>
+  <dt><input type="button" onclick="javascript:window.location.href='qiming/';" style="font-size:14px;color:red;width:118px;height:28px;" value="我要起名(改名)" /></dt>
+</dl>
+-->
+</div>
+<div id="detail2"><a style="width:100%;" href="qiming/">大师起名 周易测算</a></div>
+<script type="text/javascript">
+    /*20:3 创建于 2014-09-03*/
+    var cpro_id = "u1696663";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/cm.js" type="text/javascript"></script>
+<div style="margin-bottom:5px;">
+<script type="text/javascript">
+var cpro_id="u2076058";
+(window["cproStyleApi"] = window["cproStyleApi"] || {})[cpro_id]={at:"3",hn:"0",wn:"0",imgRatio:"1.7",scale:"20.20",pat:"6",tn:"template_inlay_all_mobile_lu_native",rss1:"#FFFFFF",adp:"1",ptt:"0",titFF:"%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91",titFS:"14",rss2:"#000000",titSU:"0",ptbg:"70",ptp:"1"}
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/cm.js" type="text/javascript"></script>
+</div>
+<div style="margin-bottom:5px;">
+<script type="text/javascript">
+var cpro_id="u2252663";
+(window["cproStyleApi"] = window["cproStyleApi"] || {})[cpro_id]={piw:"0",pih:"0",at:"3",pat:"15",cpro_h:"225",tn:"template_inlay_all_mobile_lu_native",titFF:"%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91",titFS:"16",rss2:"#000000",ptFS:"16",ptFC:"#000000",ptFF:"%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91",conpl:"0",conpr:"0",conpt:"0",conpb:"0",itecpl:"10",ptp:"0",ptn:"3"}
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/cm.js" type="text/javascript"></script>
+</div>
+<div style="margin-bottom:8px;">
+<script type="text/javascript">
+    /*20:3 创建于 2014-11-08*/
+    var cpro_id = "u1798556";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/cm.js" type="text/javascript"></script>
+</div>
+<div id="foot_ios">
+<p><a href="http://www.1518.com/?fpcstate=pc">切换到电脑版</a> | <a href="http://mo.1518.com/" target="_blank">手机APP软件</a></p>
+<p>1518姓名测试</p>
+</div>
+<div style="display:none"><script src="http://s52.cnzz.com/stat.php?id=1252347&web_id=1252347" language="JavaScript" charset="gb2312"></script></div>
+</body>
+</html>

@@ -1,0 +1,136 @@
+        <!DOCTYPE html>
+            <html>
+            <head>
+                <title>星座运势_手机新浪网</title>
+                <!-- 基本的meta信息 -->
+                <!-- 启用 WebApp 全屏模式 -->
+                <meta name="apple-mobile-web-app-capable" content="yes" />
+                <!-- 告知搜索引擎 作者相关信息 -->
+                <meta name="author" content="sina_mobile">
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+                <meta name="format-detection" content="telephone=no" />
+                <meta name="keywords" content="星座运势,每日星运,明日运势，星座每周运势,星座每月运势" />
+                <meta name="description" content="新浪星座运势提供星座每日运势、明日运势，本周运势，本月运势。" />
+                <!-- 搜索引擎 辅助抓站 -->
+                <meta name="robots" content="index, follow" />
+                <meta name="googlebot" content="index, follow" />
+                <!-- 频道相关icon -->
+                <meta name="apple-mobile-web-app-title" content="新浪移动_手机新浪网"><link rel="apple-touch-icon-precomposed" sizes="114x114" href=" http://mjs.sinaimg.cn/wap/online/public/images/addToHome/sina_114x114_v1.png?vt=4"><link rel="apple-touch-icon-precomposed" sizes="57X57" href=" http://mjs.sinaimg.cn/wap/online/public/images/addToHome/sina_57X57_v1.png?vt=4">
+                <!-- CSS -->
+                <link href="http://mjs.sinaimg.cn/wap/module/header_footer/201509101407/css/style.min.css" type="text/css" rel="stylesheet"><link href="http://mjs.sinaimg.cn/wap/module/header_footer/201411040909/css/style.min.css" type="text/css" rel="stylesheet"><link href="http://mjs.sinaimg.cn/wap/h5/dpool/products/astro/fortune/201412091750/a.min.css" type="text/css" rel="stylesheet">
+                <!-- sudainit -->
+                        <script type="text/javascript">
+        //公共全局配置文件
+        var globalConfig = {
+	        startTime	:	new Date().getTime(),	//页面开始渲染时间 ， 目前应用于：日志统计、性能统计。
+            isLogin     :   ''
+        }
+        </script><script src="http://mjs.sinaimg.cn/wap/public/suda/201705021130/suda_log.min.js"></script>
+                <!-- csrf -->
+                
+            </head>
+            <body>
+            
+            <header>
+                <div class="sinaHead">
+                    <h2><a class="hIcon h_logo" href="https://sina.cn/?vt=4&from=page" title="手机新浪网">手机新浪网</a></h2>
+                    <ul class="h_nav_items"><li><a href="http://ast.sina.cn/" title="星座">星座</a></li><li><a href="http://astro.sina.cn/fortune/index" title="星座运势">星座运势</a></li></ul>
+                    <a href="" class="hIcon h_user" title="手机新浪网" id="loginBox"></a>
+<a href="http://news.sina.cn/guide.d.html" class="hIcon h_nav" title="手机新浪网">网站导航</a>
+                </div>
+            </header>
+            <!-- / header --><div class="rrsbox"> 
+  <p><img src='http://u1.sinaimg.cn/upload/2012/01/05/8343.gif'/>
+  <a href="http://rs.ast.sina.cn/fate_astro/application/views/wap_order.html.php">短信订阅每日运势</a>
+  </p>
+</div>
+<ul class="xy_tab">
+    <li class = 'on'>
+        <a href="starent?type=day&ast=7">今日</a>
+    </li>
+    <li >
+        <a href="starent?type=tomorrow&ast=7">明日</a>
+    </li>
+    <li >
+        <a href="starent?type=week&ast=7">本周</a>
+    </li>
+    <li >
+        <a href="starent?type=month&ast=7">本月</a>
+    </li>
+</ul>
+    <!-- 根据当前选择类型，选择不同的模板-->
+<div class="xz_cont">
+    <p>天秤座(9.24-10.23)</p><p>  综合运势:<img src="http://n.sinaimg.cn/default/b4f710f5/20160104/Qing.png"  alt=""/></p><p>  爱情运:<img src="http://n.sinaimg.cn/default/b4f710f5/20160104/Qing.png"  alt=""/></p><p>  工作运:<img src="http://n.sinaimg.cn/default/b4f710f5/20160104/Yin.png"  alt=""/></p><p>  财运:<img src="http://n.sinaimg.cn/default/b4f710f5/20160104/Qing.png"  alt=""/></p><p>  健康值:80%</p><p>  开运水晶:萤石</p><p>  幸运颜色:橘色</p><p>  幸运数字:7</p><p>  贵人星座:天蝎座</p><p>  有效日期:2017-07-17 </p><div class="listmate"><strong>整体运</strong></div>
+                <div class="xz_cont"> <p> <p>　　今日提醒：选择最正确的路。</p>
+<p>　　去做：把握好改变的契机；远离不靠谱的人。</p>
+<p>　　别做：被人忽悠。</p>
+<p>　　今天你们的动力满满，把精力放在赚钱上吧，尤其是可以赚钱的项目今天可以好好的谈一谈，这些都是对你们有利的，而且今天你们基本没有什么拖延症，可以把重要的事情放在今天。</p>
+<p>　　不过今天职场上需要你们提高警惕，特别是那些给你建议或者说一些你们听不懂的话的人，要有防备之心。</p>
+<p>　　月亮能量：月亮落白羊座22.29°-金牛座6.22°（此处是指每日月亮行动轨迹）</p> </p> </div>          
+ </div>
+<div class="share_wb">
+<p>
+    <a href="http://share.sina.cn/callback?content=+%E6%9C%89%E6%95%88%E6%97%A5%E6%9C%9F%EF%BC%9A2017-07-17+%E7%BB%BC%E5%90%88%E8%BF%90%E5%8A%BF%EF%BC%9AQing%E9%A2%97%E6%98%9F+%E7%88%B1%E6%83%85%E8%BF%90%E5%8A%BF%EF%BC%9AQing%E9%A2%97%E6%98%9F+%E5%B7%A5%E4%BD%9C%E7%8A%B6%E5%86%B5Yin%E9%A2%97%E6%98%9F+%E7%90%86%E8%B4%A2%E6%8A%95%E8%B5%84Qing%E9%A2%97%E6%98%9F+%E5%81%A5%E5%BA%B7%E6%8C%87%E6%95%B0%3A80%25+%E5%95%86%E8%B0%88%E6%8C%87%E6%95%B0%3A%E8%90%A4%E7%9F%B3+%E6%95%B4%E4%BD%93%E8%BF%90%EF%BC%9A%3Cp%3E%E3%80%80%E3%80%80%E4%BB%8A%E6%97%A5%E6%8F%90%E9%86%92%EF%BC%9A%E2%80%A6%E2%80%A6&url=http%3A%2F%2Fastro.sina.cn%2Ffortune%2Fstarent%3Ftype%3Dday%26ast%3D7%26vt%3D4&title=&pic=http%3A%2F%2Fn.sinaimg.cn%2Fdefault%2Fe0da60c5%2F20170122%2FTianChengZuo.png&backurl=http%3A%2F%2Fastro.sina.cn%2Ffortune%2Fstarent%3Ftype%3Dday%26ast%3D7%26vt%3D4&tj_ch=astro"><img alt="" src="http://u1.sinaimg.cn/upload/2012/03/13/10187.png">分享
+    </a> 
+</p>
+</div>
+
+<div class="share_wb"> 
+    <p>
+        <span class="l_css"><a href="index">查询其他星座</a></span>
+        <span class="r_css"><a href="http://dp.sina.cn/dpool/astro/userc/introduction.php?vt=4">短信订制每日星运</a></span>
+    </p>
+</div>
+<!--标题区-->
+<div class="nav_mate"><strong>【星恋故事】</strong></div>
+<!--新闻列表-->
+<ul class="listbox">
+    <li><a href='http://ast.sina.cn/?sa=t284v2357d71443&amp;from=12ast_7'>让时间决定白羊和天秤的结局</a><br/></li><li><a href='http://ast.sina.cn/?sa=t284v2357d71550&amp;from=12ast_7'>白羊与天秤的爱情协奏曲</a><br/></li><li><a href='http://ast.sina.cn/?sa=t284v2357d73408&amp;from=12ast_7'>秤女对感情的态度</a><br/></li> </ul>
+ 
+<div class="navbox">
+	<p>
+	    <a href="http://astro.sina.cn/fortune/index">星运</a>
+	    <a href="http://ast.sina.cn/?sa=t301d13v234&pos=19&vt=4">测试</a>
+	    <a href="http://dp.sina.cn/dpool/astro/ast_guide/zhanbu_guide.php?vt=4">占卜</a>
+	    <a href="http://dp.sina.cn/dpool/astro/jm/index.php?pos=19&vt=4">解梦</a>
+	    <a href="http://ast.sina.cn/?sa=t282d771v166&pos=19&vt=4">塔罗</a>
+	    <a href="http://ast.sina.cn/?sa=t270d3v2245&pos=19&vt=4">博客</a>
+	</p>
+	<p>
+	    <a href="http://ast.sina.cn/?sa=t301d34v165&pos=19&vt=4">星恋</a>
+	    <a href="http://ast.sina.cn/?sa=t301d12v165&pos=19&vt=4">情感</a>
+	    <a href="http://ast.sina.cn/?sa=t301d28v165&pos=19&vt=4">命理</a>
+	    <a href="http://dp.sina.cn/dpool/astro/course/?pos=19&vt=4">教程</a>
+	    <a href="http://ast.sina.cn/?sa=d811t282v314&pos=19&vt=4">专题</a>
+	    <a href="http://ast.sina.cn/?sa=t301d22v165&pos=19&vt=4">论坛</a>
+	</p>
+</div>
+
+        <!-- footer -->
+        <footer>
+            <div class="footer">
+            
+            <!--页尾信息-->
+            <div class="footer_nav">
+                <span class="j_backPrePage backPrevPage">后退</span>
+                <span class="j_scrollToTop backTop">回顶部</span>
+                <a rel="nofollow" href="https://sina.cn/?vt=4&from=page" title="手机新浪网">首页</a>
+                <a rel="nofollow" href="http://news.sina.cn/guide.d.html" title="手机新浪网">导航</a>
+                <a rel="nofollow" href="http://comment5.sina.cn/comment/skin/feedback.html?channel=ly&newsid=888" title="举报 - 手机新浪网">举报</a>
+                <a rel="nofollow" href="http://lives.sina.cn/live/live?vt=4&id=314" title="手机新浪网">吐槽</a>
+                <a rel="nofollow" href="http://passport.sina.cn/signin/signin?entry=wapsso&vt=4&r=http%3A%2F%2Fastro.sina.cn%2Ffortune%2Fstarent%3Ftype%3Dday%26ast%3D7%26vt%3D4&revalid=1" title="手机新浪网">登录</a>
+            </div>
+            <p class="footer_times">
+                <a rel="nofollow" href="https://sina.cn/?vt=4&from=page" title="手机新浪网">Sina.cn</a>
+                <span class="footer_t_ico">07-17 16:26</span>
+            </p>
+            </div>
+        </footer>
+        <!-- /footer -->
+        
+        <script src="http://mjs.sinaimg.cn/wap/module/base/js/zepto.min.js"></script><script src="http://mjs.sinaimg.cn/wap/module/header_footer/201510231818/js/header.footer.min.js"></script>
+        
+        
+        </body>
+    </html>
